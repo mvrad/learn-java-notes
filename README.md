@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Data Structures and Algorithms Using C and C++</h1>
+  <h1>Learn JAVA Programming - Beginner to Master</h1>
 </div>
   <h3>Notes from the Udemy course created by <a href=https://www.udemy.com/course/java-se-programming/>Abdul Bari</a>.</h3>
   
